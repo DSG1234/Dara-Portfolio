@@ -1,7 +1,4 @@
 h2{
-    text-align:center;
-}
-h2{
     color: orange;
 }
 h2{
@@ -13,9 +10,8 @@ img{
 p{
     font-family: garamond ;
 }
-p{
-    text-align: center;
-}
+
+
 li{
     color:#ff8119;
 }
