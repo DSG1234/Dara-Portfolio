@@ -39,8 +39,11 @@ button{
     height: 1000px;
     width: 1200px;
     background-color: black;
-    margin: 0;
+    margin: auto;
     padding: 0;
+}
+body{
+    background:black;
 }
 #truths{
     height: 170px;
@@ -86,7 +89,7 @@ li{
     padding: 0;
 }
 #footer{
-    height: 130px;
+    height: 290px;
     width: 1200px;
     background-color: #3299ff;
     margin-top: 5px;
