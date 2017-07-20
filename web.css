@@ -1,0 +1,56 @@
+#top{
+    height: 250px;
+    width: 600px;
+    background-color: blue;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+#bottom{
+    height: 600px;
+    width: 600px;
+    background-color: orange;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+#column{
+    height: 850px;
+    width: 10px;
+    background-color: purple;
+    float:right;
+    margin: 0;
+    padding: 0;
+}
+#truths{
+    height: 170px;
+    width: 350px;
+    background-color: yellow;
+    float: left;
+}
+#hackone{
+    height: 170px;
+    width: 350px;
+    background-color: green;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+#hacktwo{
+    height: 170px;
+    width: 350px;
+    background-color: orange;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+#jokes{
+    height: 170px;
+    width: 350px;
+    background-color: blue;
+    float: left;
+      margin: 0;
+    padding: 0;
+}
+#number
