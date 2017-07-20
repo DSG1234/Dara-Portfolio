@@ -1,6 +1,6 @@
 #top{
-    height: 250px;
-    width: 600px;
+    height: 300px;
+    width: 840px;
     background-color: blue;
     float: right;
     margin: 0;
@@ -8,18 +8,28 @@
 }
 
 #bottom{
-    height: 600px;
-    width: 600px;
+    height: 560px;
+    width: 840px;
     background-color: orange;
     float: right;
-    margin: 0;
-    padding: 0;
+    margin-top: 5px;
+    padding:0;
+}
+button{
+    border: none;    
 }
 #column{
-    height: 850px;
+    height: 975px;
     width: 10px;
     background-color: purple;
-    float:right;
+  clear: right;
+  margin: 0;
+    padding: 0;
+}
+#wrapper{
+    height: 1000px;
+    width: 1200px;
+    background-color: black;
     margin: 0;
     padding: 0;
 }
@@ -27,13 +37,21 @@
     height: 170px;
     width: 350px;
     background-color: yellow;
-    float: left;
+    margin: 0;
+    padding: 0;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    margin:0;
+    padding: 0;
 }
 #hackone{
     height: 170px;
     width: 350px;
     background-color: green;
-    float: left;
     margin: 0;
     padding: 0;
 }
@@ -41,16 +59,31 @@
     height: 170px;
     width: 350px;
     background-color: orange;
-    float: left;
     margin: 0;
     padding: 0;
 }
 #jokes{
     height: 170px;
     width: 350px;
-    background-color: blue;
-    float: left;
-      margin: 0;
+    margin: 0;
+    padding: 0;
+    background-color: hotpink;
+}
+#quiz{
+    height: 170px;
+    width: 350px;
+    background-color: purple;
+    margin: 0;
     padding: 0;
 }
-#number
+#footer{
+    height: 130px;
+    width: 1200px;
+    background-color: yellow;
+    margin: 0;
+    padding: 0;
+} 
+
+#list{
+    list-style-type: none;    
+}
