@@ -1,14 +1,19 @@
 #top{
-    height: 300px;
+    height: 180px;
     width: 840px;
-    background-color: blue;
+    background-color: #0080ff;
     float: right;
     margin: 0;
     padding: 0;
+    color: black;
+    font-family: helvetica sans-serif ;
+    font-size: 120px; 
+    text-align: left; 
+   
 }
 
 #bottom{
-    height: 560px;
+    height: 545px; 
     width: 840px;
     background-color: orange;
     float: right;
@@ -16,7 +21,11 @@
     padding:0;
 }
 button{
-    border: none;    
+   
+    color: black;
+    font-family: helvetica sans-serif ;
+    font-size: 50px;
+     border: none;
 }
 #column{
     height: 975px;
@@ -36,7 +45,7 @@ button{
 #truths{
     height: 170px;
     width: 350px;
-    background-color: yellow;
+    background-color: #3299ff;
     margin: 0;
     padding: 0;
 }
@@ -51,14 +60,14 @@ li{
 #hackone{
     height: 170px;
     width: 350px;
-    background-color: green;
+    background-color: #0080ff;
     margin: 0;
     padding: 0;
 }
 #hacktwo{
     height: 170px;
     width: 350px;
-    background-color: orange;
+    background-color: #cce5ff;
     margin: 0;
     padding: 0;
 }
@@ -67,20 +76,20 @@ li{
     width: 350px;
     margin: 0;
     padding: 0;
-    background-color: hotpink;
+    background-color: 	#66b2ff;
 }
 #quiz{
     height: 170px;
     width: 350px;
-    background-color: purple;
+    background-color: 	#99ccff;
     margin: 0;
     padding: 0;
 }
 #footer{
     height: 130px;
     width: 1200px;
-    background-color: yellow;
-    margin: 0;
+    background-color: #3299ff;
+    margin-top: 5px;
     padding: 0;
 } 
 
