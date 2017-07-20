@@ -1,0 +1,31 @@
+
+button:hover{
+    background-color:black;
+    color:white;
+    border: none;
+}
+button{
+    
+    font-size: 30px;
+    background-color: white;
+    border: 1px solid black;
+}
+h1{
+    font-size: 45px;
+    color: red;
+    font-family: arial;
+    text-align: center;
+}
+h2{
+    font-size: 35px;
+    color:red;
+    font-family:arial;
+    font-style: italic;
+    text-align: center;
+}
+h3{
+    font-size: 28px;
+    font-family: arial;
+    text-align: center;
+}
+ 
