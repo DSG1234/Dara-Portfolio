@@ -8,6 +8,10 @@ $("#truths").click(function() {
 $("#jokes").click(function() {
     window.location = ("https://dsg1234.github.io/Dara-Portfolio/jokestyle.html");
 });
+
+$("#quiz").click(function() {
+    window.location = ("https://dsg1234.github.io/Dara-Portfolio/AQuiz.html");
+});
 $("#hacktwo").click(function() {
     window.location = ("https://dsg1234.github.io/Dara-Portfolio/Beets1.html");
 });
