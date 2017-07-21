@@ -1,8 +1,24 @@
-
+#submit{
+    background-color: red;
+    font-size: 35px;
+    color: white;
+    border: none;
+}
+#submit:hover{
+    background-color: white;
+    color:red;
+    border:none;
+}
 button:hover{
     background-color:black;
     color:white;
     border: none;
+}
+button:active{
+    background:black;
+}
+button:visited{
+    background:black;
 }
 button{
     
@@ -28,4 +44,3 @@ h3{
     font-family: arial;
     text-align: center;
 }
- 
